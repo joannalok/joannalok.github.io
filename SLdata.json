@@ -1,1055 +1,1056 @@
 [
- {
-   "Location": "SLCM",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Thailand",
-   "HOTEL_CITY_DESC": "Chiang Mai",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#omEiWSxfYHSPC7cl9T_2IbJ_yFy9lV2CYfGlf8yabjM$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#3dnLUL1KlO1mlyscaWI6_h8Ci6fXNpjAqRXwTlIcHuY$*"
- },
- {
-   "Location": "SLXM",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Xiamen",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#wv77pVGJVxNoJxPEQAYQ5YCztEFunOhSOkovBmrR8Rk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#rFBieXUEwsWYRE5mr6ykdzXCCfilBwEyzIBIfEHjATg$*"
- },
- {
-   "Location": "SLKL",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "Kuala Lumpur",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#UO9t3wcf-WtDrKvyAbuMRKUDSaDWGgRFIOCo7JzStAs$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Vaznnw5fMljP6EkwYzFlWlRRXL2adYpFW4Ary0E4Lks$*"
- },
- {
-   "Location": "SLS",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_SG",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "Singapore",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#HcGKyTZWfRyTLgwKeH1F1E3aXcV8nEYo6nrpUeBgcK8$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#b-MlRlcsUHRY556ln5Kf4pp6yQbZHeCd0ssTcAh63AY$*"
- },
- {
-   "Location": "CLUSTER_HK",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_HK",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#gZQhhYoleAuq23kgke3HMwOp1iB2hjlSWTare0As8ck$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#zR5dOUdRkxg2mvBMJRUe_4cwfdgMmc15B9abe6o6J8Q$*"
- },
- {
-   "Location": "THKL",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "Kuala Lumpur",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#8vYyCxBYtbFwWPy1h5aPR-QENqg24ckNdyFSSyU3q4I$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#BnK6FK7zBWgi4KqK_SwFtcG7t9xVQgLRMJw1bhWlIU4$*"
- },
- {
-   "Location": "CNSZV002",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Suzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLCD",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Chengdu",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#q5gUTVLtjQ6ekIFqhMmlXWnANCVXJRGiU2CXtD5Mhf4$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#d68dhozG_hxrUqcLlEMc55excDtSrTTDi_-qJzlbIAc$*"
- },
- {
-   "Location": "HJB",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Beijing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#roFzpA__rv7NN-BEwSK8mGrzvmc9HouI2SI7kKI21Nk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#XVmsYVcNvJePfluNi9WAjXpKeCywzEXyfUsayqUXNn4$*"
- },
- {
-   "Location": "SLTS",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Tangshan",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#i9AGAxsqS_Aw_Yflx8YIDE0WXz3j7HYqHJeT-BUGu1g$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#enXKrXY9ZpCpde0SetDDghSYAX7gfwALxDxHXqjawbg$*"
- },
- {
-   "Location": "SLNC",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Nanchang",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SHANG_SOCIAL",
-   "Region": "RGN_SEAA",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#mMExC-wLr2u4yrNaVMkwD3BeTewnhEANmcBJRMUGGMk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SSYN",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Myanmar",
-   "HOTEL_CITY_DESC": "Yangon",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#-xV6Ug9IFQHUpZW9jpIRLZV74ePCrbqM_WToflTFo5w$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Edm0-O0fri0zmVPJXZ41MO1EIU8UoIKm-HqEyZSj37Q$*"
- },
- {
-   "Location": "FIJ",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Fiji",
-   "HOTEL_CITY_DESC": "Fiji",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLBT",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Baotou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#yA4tBbaJGjH4BU73m4uLSMpnnqdaDF3hcD5mLVoi7OM$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#u5d6rZkAA1qSXfbaabaOp7G12CI7YlP-7RSRv92Dqm8$*"
- },
- {
-   "Location": "SLCB",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Sri Lanka",
-   "HOTEL_CITY_DESC": "Colombo",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#ZXojI1KKF_xbcRyLy5DsrU4Ws52EnmAxDrq4V55kWGY$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#224JUQf-1JUiMaZXvnwWHttSSzz-TREsOD9L9CH_k58$*"
- },
- {
-   "Location": "SLSN",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Australia",
-   "HOTEL_CITY_DESC": "Sydney",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#GTM1SBpXWTvEregAaOxW4Ec6k_QosIODVeMw5iPyrEE$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#vWgYR4JDWkfHXYEs7_RqN3JfiOuUCrmnkumBFo4Dk-A$*"
- },
- {
-   "Location": "SLJN",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shanghai",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#u-PaCTzHWN0wI-amXj34hIWaV6n6BUFkXdROjbYxbZg$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ADi5lfutqVaAX-sA9HdFYsjkkp2WhXxKdbcZHnre8Zg$*"
- },
- {
-   "Location": "SBHI",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Beihai",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#OnaoxF86-XClUE9O7JLIJB6u9sjjOM4Eo86cjRFrWqk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#9UzNdvCZ55X9yyCuE1O52tFoqyTNjhEP7Wk5tZK2N8s$*"
- },
- {
-   "Location": "HJMD",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "Maldives",
-   "HOTEL_CITY_DESC": "Male",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLQH",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Qinhuangdao",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#hkJ6B6gM3dAYMG0MAKidwpgdAL2C4r9_emPmmaZ_rRs$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#DQXA5k8EoRAyfWtPL5UpKP6YjniyHXOeExJHOUlkmM0$*"
- },
- {
-   "Location": "HJOG",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_SG",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "Singapore",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#7W76HA-cvKqhbtXEyXZgTsHHAwievJdMNgR8742t_ro$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#7uXRtpmRyI0zsOJnycTELDKTYHoqDxzJee34s-Zt-aI$*"
- },
- {
-   "Location": "THAD",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "United Arab Emirates",
-   "HOTEL_CITY_DESC": "Abu Dhabi",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SEN",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_SG",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "Singapore",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#J9LmdDq_H9VZXpumJTRToRbOKS3QKOBq-aW_RUCAcpY$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#j9aKIbUF92ikkkDe7puUbLsdrIo38CU8FJtqyvXlo58$*"
- },
- {
-   "Location": "CLUSTER_MY",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Lj1E2oherlhv0vlqOEDVDXIllHGQlf1p0rdc-KcEL9Y$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#JN6VNFPBBsW5srkjvVZvgN6KvDrnmJDUeSxO9kIcGKU$*"
- },
- {
-   "Location": "SLPR",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_EUNA",
-   "Hotel_country_desc": "France",
-   "HOTEL_CITY_DESC": "Paris",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#fbcPDzATmtgwHU-_QmSWUy0TtxJUBuUZpRsLg2SUa8I$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Dm0wNVdmGaKpC2v0nhhz-KiYvvkJBqFuuERixt_u4I0$*"
- },
- {
-   "Location": "SLLN",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_EUNA",
-   "Hotel_country_desc": "United Kingdom",
-   "HOTEL_CITY_DESC": "London",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#LT2A4PPECIQIXLDGe6jYU66d38fQLenOiNI5e6LArjI$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Obp_H3JJBZfTnyJN6mQ2KldtQIVRsxlGwzv-y0HQRwI$*"
- },
- {
-   "Location": "JEN",
-   "Region": "OTHERS",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#9GVN2Bs1Van8vOMdGSyc7HMLDvynjLnyYwULYWt0bDw$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#GyZggAm9sHH309uIqzyPwtvN3sC4Iiw8PUOdmMFQtqk$*"
- },
- {
-   "Location": "RGN_N_CN",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#81UXWGlvU0rbRR2IWozffLVUB_5P5JdJJwVxRXpZFgI$*"
- },
- {
-   "Location": "SLAD",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "United Arab Emirates",
-   "HOTEL_CITY_DESC": "Abu Dhabi",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#TfqI4hdzh9zlRTdKFbdx05-NgWCzkSZgjfafdC4lfOQ$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Mt2gxdpW3ogomja_1zxa02FPPW2sSRgTb5k6wa6GhOE$*"
- },
- {
-   "Location": "ISL",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_HK",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "Hong Kong SAR",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#PZ_r9oVJ5XGF2_rzOYDLbq4Bz59ZsN1FtqoRQd75BS4$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#fCJxPFEAbH4Ui10R7RIP3ou--kzVwvgXW23Etjslrjg$*"
- },
- {
-   "Location": "SLNJ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Nanjing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "KHHK",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_HK",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "Hong Kong SAR",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#5F4Y8OnTxXprux7N40CB5yAJO7PbWQ_UEvl8nG-2Gi0$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#E_YtuuhAcSgNjR4nhgNCP0Vs1hgV3VVO1f2GU3wgDXg$*"
- },
- {
-   "Location": "SLMH",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "Oman",
-   "HOTEL_CITY_DESC": "Muscat",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#89L9LEs2UMMXw5WOHqSMt7E2crFJyK9NIRaly8snO8A$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#vy9nkyocjcht7WRCdzcH4at15fV_z2aUqNzcfPiPIp8$*"
- },
- {
-   "Location": "SLIB",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "Turkey",
-   "HOTEL_CITY_DESC": "Istanbul",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "RGN_MEIA",
-   "Region": "RGN_MEIA",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Middle East",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#11vNOZBM_SFeFm_vZMMRWlwuk1a6l6TsMZ7J2rusH3A$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#LW5K_ZJMDrArENnvfBSnrQXi1EFsUiRLw-WkaxBAhU8$*"
- },
- {
-   "Location": "SHHZ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Hangzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLH",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Hangzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLSH",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shenyang",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Au03Sx3w2nGoicYFmzejqh2LcXjEjcuuzoDew17J6zQ$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#tMPmKGhMgNp9ciJJCUKjpiTJ0mJ-ShvJesjKwbU4BI8$*"
- },
- {
-   "Location": "CLUSTER_TW",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_TW",
-   "Hotel_country_desc": "Taiwan",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#i9WPvpvjAa-eyJn1jBZSwUHnNLLuIKSEAbcRbHxP1MY$*"
- },
- {
-   "Location": "SLCZ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Changzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLUB",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Mongolia",
-   "HOTEL_CITY_DESC": "Ulaanbaatar",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#ma0hyL25uo2zFivv_-k05zfU7al_YrIgkUHuoKmbomE$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Sianpy2K0aJh5Ylv2s2-ErmvVX_TFn5-nFDbJRjazMs$*"
- },
- {
-   "Location": "SLHT",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Sri Lanka",
-   "HOTEL_CITY_DESC": "Hambantota",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#gZNuYEI-pYOxNAYKHdO-rdS-F54fP_Vj81qFWXYQNSA$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ukpn4y8w9IC2N5azKa0dFdfR13svX_gmWAclbcVzolM$*"
- },
- {
-   "Location": "SLFZ",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Fuzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#bIC3fdTbSV1NNxnNpDPv3jMJat0efpmLltHsGXa7ohU$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#EMdcQ9nqDNhn_8WjdwOO1VcSWKliMGCQLJ6P5FQIV08$*"
- },
- {
-   "Location": "TPE",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_TW",
-   "Hotel_country_desc": "Taiwan",
-   "HOTEL_CITY_DESC": "Taipei",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#qMdKZ_85xYM3R_Cjir0iwldqphmj1hUjYYN3YGMI09c$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ZNRXoC9nBh9pGEYvka6IgrY2NKZQ-UnA9OExx4XsfQI$*"
- },
- {
-   "Location": "RGN_SEAA",
-   "Region": "RGN_SEAA",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#JZ6mNwiguZJAilF9JoctFCkmrW206AUxTttstuXf3Ew$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#MpeZR4voTK_LJB-LFm16-TqfO-WxC3wd4RRau3lQv-Q$*"
- },
- {
-   "Location": "SLDB",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "United Arab Emirates",
-   "HOTEL_CITY_DESC": "Dubai",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#UcMr5-HQR0Iu0qsisyYpW9_RYFFJPG-nZAvo5bTezjo$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#v8rFGOlXCU3l4W5wmozJIVc99I_c2nODOuo1ZPdmduk$*"
- },
- {
-   "Location": "CLUSTER_EUNA",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_EUNA",
-   "Hotel_country_desc": "Middle East",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLQF",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Qufu",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#1tn9TVRaB8WA3ct_DKx_vKauEV52DsCbz4wAKIOFo5E$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#GBHnq2Wodwn4DZ33JcwkBRVk8sp7WRk3ehn82IzkPtw$*"
- },
- {
-   "Location": "TAH",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "KK",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#NK-wUrVv_aQB7RjuCS17wREEOZb8u79tjPLP1TRwLC8$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#dfZBZ-00D6nV_myq4Xv3pfYw5ZibXPjcMvhw6r24cw4$*"
- },
- {
-   "Location": "SLTY",
-   "Region": "RGN_JPKR",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Japan",
-   "HOTEL_CITY_DESC": "Tokyo",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#9ahF3RpxshRUAsV6A9MdCBKDKU0o9AeONXL4k2WA9nw$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#nJ20mLUuH-iDJLEPvHiGd3cT8dQs8cdgtQs_eqXICqo$*"
- },
- {
-   "Location": "SLFM",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "Manila",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#6R8PrDrocwK7-osHi7uAu8IwiLNklQwC-EO6BfvzMF8$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#wHe9e4bT295wKYfmaJYusS3eQOtF5EY9qFERq3_OYh0$*"
- },
- {
-   "Location": "CLUSTER_PH",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#2bvSJZJDIt9ASkeg69D1FQc7Ri-65kdvsiDooMWTyAE$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#J6CsLEPZqa2wXWED_ch8Mv5WqcgCkY907_5RsNO3Aoc$*"
- },
- {
-   "Location": "CLUSTER_MITS",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#UmQl9dF6NWgjTzlWxet1ustm9-auU3PmD2OjIvto2Ww$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#5ztf0DDqx5Tf8xm49RGEz0qtz34aUbnURNZO3CNY9JE$*"
- },
- {
-   "Location": "SLHF",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Hefei",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLBO",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "Boracay",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#JQHaB2DKkcusa1S538BwnOeMqlPs7JAv-sMApTvUfmI$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#JFOYr6MdjKZh346QlUg2L_xH8cMZtfYTMpT3Fp5kARQ$*"
- },
- {
-   "Location": "SLJ",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_ID",
-   "Hotel_country_desc": "Indonesia",
-   "HOTEL_CITY_DESC": "Jakarta",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#jcjvS9oHJ4RyzOTw85G5qhd3rxkP-gSf8A40SzG0ubk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#myIbW7OZuGii49174dpL2tNt0vlt7DX3WJfAsXjK6OE$*"
- },
- {
-   "Location": "SLMU",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "Oman",
-   "HOTEL_CITY_DESC": "Muscat",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#X5NObi0mDZTsLiwZFPGC6POYrKO14KTSjH1_tCz9cKo$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#PGWfzhUBcKObWVTJTOWgaDP2uM1PUhBOSJNu1RDVQA8$*"
- },
- {
-   "Location": "HJTS",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_SG",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "Singapore",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Em167eP7Cie7XGzQSVatijBERuWXcuz0tcVUyshW5Xg$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#oXNLe_WMBpVFjKm76s4434h39mHgqFe3Kv9HVwdmSgU$*"
- },
- {
-   "Location": "THCZ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Changzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLM",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "Makati",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#rTW4oiC_EgRARSc-1fia5cWrbh1KkdllTJJc7bZAcQY$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#p0rYKVaYr-KwJ7TCtv3cbjyabgnap5-vt-cityZVnhM$*"
- },
- {
-   "Location": "SLYW",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Yiwu",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLJI",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Jinan",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#h4J-dJqYfrRl2T2cozMmtoGW5vEx7FQPGM-ubHgktzc$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Salcr_vXYnQieZDORlkgb1e0RikbK17dhLIsV4fpSbU$*"
- },
- {
-   "Location": "SLQ",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Qingdao",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#gUqEOZVjb82vi3S-lPxpZbDLBxoXILSutY180AtB6jE$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#gEUsqtSbXkM0NwdYc0n6qrC4Er_CKzBHAglwRplxB7w$*"
- },
- {
-   "Location": "SLSZ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Suzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#8VKcuAfVulD2D1mfna0d7HnG1Sh6l1K9RmgMg--XFjk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#YcGjEHTWLoGSUsl_Ei5NfDbO1_gV9hZTkHXJ-8Lkilc$*"
- },
- {
-   "Location": "SUR",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Indonesia",
-   "HOTEL_CITY_DESC": "Surabaya",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#egN-xaOOFQqp9O5rlGHmNSFL36XoiYvyUh3vzPVjgak$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#oXNLe_WMBpVFjKm76s4434h39mHgqFe3Kv9HVwdmSgU$*"
- },
- {
-   "Location": "SLND",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "India",
-   "HOTEL_CITY_DESC": "New Delhi",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "MAC",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "Mactan",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#kwLWBANiSYBHaJ6rD_6mI7IBVRHiSsYeXXDhzvg5mr0$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#4nmYSPQuao9WMKbvNWaC8bYW3IEx_99iozzsG-WX8Ac$*"
- },
- {
-   "Location": "SLWU",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Wuhan",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#CzsG4XSOqBEBqJRfDxBwMGzB8peTSHBtbKLggcGhNOo$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#nJbs8I1WwAo_DAAwlXES-tLmh1A4NyDwEygv0Rc3DaI$*"
- },
- {
-   "Location": "KSL",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_HK",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "Hong Kong SAR",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#tceg6PTqfCjQwWyNQ38NwL_oC216v9kNQPLqRW_Bt3c$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#TkjmVlGbthXFR3RQa9rldmz3wRkbpZ-srtXnUSULGqY$*"
- },
- {
-   "Location": "SLTO",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_EUNA",
-   "Hotel_country_desc": "Canada",
-   "HOTEL_CITY_DESC": "Toronto",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#2Tzzu701XOu0CMYAm1fc2wq5E3cK9OpkIprdQ0ZSmuQ$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#c6WbYBw0n7mDpl1-sWq_47fcI7Fyujw3D4owR5JCV28$*"
- },
- {
-   "Location": "SLHN",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Sanya",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#X-gm1Bi1kXhOf1uNNa7hUZyU6JN5yGxH9QPFV8PnaXM$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#oCp7K_CBOFhOFejR2T7wPFfJw2o6YACmJPv7biDJGXw$*"
- },
- {
-   "Location": "SLPU",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shanghai",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#vHK6zVeVN7g4bLR8Y5szfdXPYApb0J4E7DsAXWhHAgg$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#wRTMUmtZneThkteq0VRc_GPE05YAkoZ6iJRMIk5pafY$*"
- },
- {
-   "Location": "SLTN",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_TW",
-   "Hotel_country_desc": "Taiwan",
-   "HOTEL_CITY_DESC": "Tainan",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#ZEV3ksNPCr6Ne10nB3orfv6e7cbYTb3Z2rHNP1GWuEg$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "GSH",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "Penang",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#D4qzcAUu9C6ynHfmKu2yrsFRwxrVSnByZyx8VjgcMfY$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#KGOceMrVQV4oWezRpByc79Aqk4_4ETiqQgqFWzEOinI$*"
- },
- {
-   "Location": "SLCC",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Changchun",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#idDn43OMtZr69nSecztVmhfxpKnXz58UT2D3JJB-vTk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#pUVrgQspAfwdXZ3puKLMjDXJCtnEQxlHDrT6lbRlJk0$*"
- },
- {
-   "Location": "SLMZ",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Manzhouli",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#AkuuH8tosfdTPAEGkvs2CqWHW8AaG52K6LrKhlTrDMc$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#cNKu8rCyRmom2-ZjNamSDArw9aMo_q9FTv55nE6mRsc$*"
- },
- {
-   "Location": "SLWZ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Wenzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SHAS",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Harbin",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#o1J7oFqA4d7fMGReQQ9X-F0f9G99ts3E4NioO8bb5CQ$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#OW1y10b5mJMnhB1YkvcBahz876YJ6yZl47w8_Uk0fbo$*"
- },
- {
-   "Location": "SLBK",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Thailand",
-   "HOTEL_CITY_DESC": "Bangkok",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#JWtj3KzZeypMzrg8TLaj49lEmDdU6segGPIpGUWa1Dk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#aF-tzR-mVNN1gARJPJRP8vvxta2POa4zrrWVTl5t9U8$*"
- },
- {
-   "Location": "RGN_HKTW",
-   "Region": "RGN_HKTW",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLZ",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shenzhen",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#t2v1C9jGSDzwNPPK-bRLL7RlMLBaE331oVk8UvoCws8$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#tRSzE7OA-9gFQP4tOMD1krJc82HWWpeiI_rG8_Nj7xY$*"
- },
- {
-   "Location": "SLFT",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shenzhen",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Gcllml-nxrQ7XV0T85jm9g7iv5-OZyFnNB6EXCYB7RY$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#XfXa7JoQcaXCwbfR0X02vPJQTgHKPVBLZPZSquS5MwE$*"
- },
- {
-   "Location": "SLTJ",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Tianjin",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#YbaTqWVUQF_AaBaptWcuqf0rnn0I9FxWewj9PzMt4t4$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#dShTmw7muoXoH1Jd39tAv2fhMwPKieaCESLFFtFBE30$*"
- },
- {
-   "Location": "RGN_S_CN",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLV",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_EUNA",
-   "Hotel_country_desc": "Canada",
-   "HOTEL_CITY_DESC": "Vancouver",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#PuJ-N6TO-e1BkUWONSDvmns_JB2hNEqhT7fySzHWcIA$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#MauQ-u0YElXTijuDe4nL0XsD0jzdHqQSYmzEucc_7mg$*"
- },
- {
-   "Location": "RGN_CN",
-   "Region": "RGN_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#y3LoM083Dc7VBKqxKoHFBToABTSl2xiOKF0tfQKVIFE$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#fIZX2Phe7OXK4UvFngY9T4In0-VVWplA1QW5L0QeSJ8$*"
- },
- {
-   "Location": "SLYZ",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Yangzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLDQ",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Diqing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "RGN_E_CN",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#V1yoaFmFwqc-3vhAGrb6wO2YrRkGw89_2dC0bAOxEQs$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Sf8EBNRaMAX--DBCA4ajBCU4--YscTd5K8vTvYGQTfA$*"
- },
- {
-   "Location": "HJHK",
-   "Region": "RGN_HKTW",
-   "Cluster": "CLUSTER_HK",
-   "Hotel_country_desc": "Hong Kong SAR",
-   "HOTEL_CITY_DESC": "Hong Kong SAR",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#xjOXejVi6Df7cN3UhAThTrzkRuhsBAbM2R1vXkDl2zs$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#2XVByY1OwbNSSx5aEYeSCooAiglX7IY2f79wsZRoMxs$*"
- },
- {
-   "Location": "SLXN",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Xian",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "CWH",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Beijing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#PoAJUQ5eJ3cQ0W9sSTOm_am3d4xG5QCIYmmH2duQOgg$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#4wVldhJWdeuOfk-U7HkBFlvxzD-w2aSkDfzT_y0MQaM$*"
- },
- {
-   "Location": "SLBL",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "India",
-   "HOTEL_CITY_DESC": "Bengaluru",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLMC",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MITS",
-   "Hotel_country_desc": "Australia",
-   "HOTEL_CITY_DESC": "Cairns",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLDA",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Dalian",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#5-K89fNhujMfkgm5Wqy8sN69nstCbO_FiHXzCc1LWtw$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Q8mHioNiY74p6RtKKoqV9Ek55mOxDHkynsUjuUeG3DY$*"
- },
- {
-   "Location": "HJSY",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shenyang",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#98Oqug5JzTFgsFbdURhXtJYZAz5aGKU78t5NV2babTk$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#lETLQvagiCYIu27pe-uI7jDVp18ewHbiA1BxaW17Wo8$*"
- },
- {
-   "Location": "ESL",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "Edsa",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#DByK6p5ZYplj5U43CXHh62J0da2kJbetVkjmNgOBGgA$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#z_KtRu8unImLvpJbiB4Jn7pDujhxGCh2vRh9FTvp6qQ$*"
- },
- {
-   "Location": "HJP",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "Penang",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#z7hoIpT_TOdrEbL0CPzzJdlWlxrE4TdsqQFLNgQrCSs$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ryYJ-PyXisPXRghsU6UVN3QC7A6_GXzTlFYaRZhiiX0$*"
- },
- {
-   "Location": "SLLS",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Lhasa",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "RRR",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "KK",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#a6VnfBVKS4dXyQQexbBnU8clElj8unkuWbfNuQhhIxc$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#lbrzXprXgztS1dJVyszO5mY6aIi5sMEu1wG9k-w_SU0$*"
- },
- {
-   "Location": "SLPG",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Guangzhou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#AbN7xDgEQtxuPCE0gO96kgoZvWWRMDPJQ3QTr5YQFko$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#XBVjZR7-TFh5YRXbdT-qb6IVCFPbGbXPbqHdRQluono$*"
- },
- {
-   "Location": "SLHH",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Huhhot",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#EKP1TLAO4IhCgwo6lmbi-30f95jKtKfelJ55mHPXjjo$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#8eAsgkNuhJP8OoUPtNB5yiiWR8Fy3sAlIomg639VmLA$*"
- },
- {
-   "Location": "RSR",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "Penang",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#D4qzcAUu9C6ynHfmKu2yrsFRwxrVSnByZyx8VjgcMfY$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#nDIU-fAtY5ywGU7_YRL_2dMfoj_MGkfZHx1eD2CtTM4$*"
- },
- {
-   "Location": "SLNB",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Ningbo",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "CWSW",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Beijing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#R53eCqwqxCZDHR5haZ4DCjzDVZzmGvrGYw66mhe3C10$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#E1DlvB8y9OAbyr5rAqDxBVu8PBHI1WjqyVizVk9vvUE$*"
- },
- {
-   "Location": "KHPU",
-   "Region": "RGN_E_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Shanghai",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#LpJX0NvI8SgiNPtvN2nDZgcZ9k2AmcyjKu2OXWet8pI$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#uGJjBiOVsDJSSjynGf81YQjLVLFuC9Hv7XSdVCfdiAU$*"
- },
- {
-   "Location": "HJM",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_PH",
-   "Hotel_country_desc": "Philippines",
-   "HOTEL_CITY_DESC": "Manila",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#B_gr-VM-vuirWQoeN5QYriYSn0QTzIKKXsj37AkC6aU$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#CXD2ArfHFm_TmjFtuwt9xhL_MALWnXQySSdpe2PHkj0$*"
- },
- {
-   "Location": "SLTR",
-   "Region": "RGN_MEIA",
-   "Cluster": "CLUSTER_MEIIO",
-   "Hotel_country_desc": "Mauritius",
-   "HOTEL_CITY_DESC": "Le Touessrok",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
- },
- {
-   "Location": "SLGL",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Guilin",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#tk09Axcr5qCgD9kkbXEpoJLVurYqU91rgOOYg1ifnK0$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#sfvmGO600YWeQDsW-VPwoaCbUI7zDCjnlKQoIR20IJA$*"
- },
- {
-   "Location": "HBKC",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Beijing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#-c9qz6M28WObBTzToNRU30OYXDPGr2ur0hQf4vLKAGs$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#EB4AFRCu7PT2wLhqTkexYvHopcPD105lc1fpYMBIogM$*"
- },
- {
-   "Location": "SLHI",
-   "Region": "RGN_S_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Haikou",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#B454vw3BOlDDyaN4Lb2WZmo7Nf2bVVhslfQ-p1vJk6A$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#_mVn7AopL4yrv-Y_bNqTjIssD1vO3bhGe_beWTxdaFU$*"
- },
- {
-   "Location": "SHAR",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Harbin",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#n0Gz9bgKKwYJbNG8k6TEb4DxLjMNgGkIAWisDntKQYA$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#zoaPWkUEm2muVf50w6kvoO-dCTv_y2KqWn9JbjtyrMQ$*"
- },
- {
-   "Location": "SLB",
-   "Region": "RGN_N_CN",
-   "Cluster": "OTHERS",
-   "Hotel_country_desc": "China",
-   "HOTEL_CITY_DESC": "Beijing",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#rKvqVhZWlC1qP_llg_l2WZWNEhYkWGAyJ2UuXlWNAEc$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#C0vCVzwcVmb3tU-Z2rpv-7hfIJcQ8J6eUfpDO1sGDmo$*"
- },
- {
-   "Location": "HJPH",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_MY",
-   "Hotel_country_desc": "Malaysia",
-   "HOTEL_CITY_DESC": "Nusajaya",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#OZH5ldopcLgrmNMXjvTgt8MSrETwzonBQq6Fnb9R-XM$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#3zdCXn-go5h49Q9g8Jhz7YtSD869rgBsEVtBJjZ394s$*"
- },
- {
-   "Location": "CLUSTER_ID",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_ID",
-   "Hotel_country_desc": "Indonesia",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#1_xmumnsZVPOEChUjW8LzFE79Rd2Ckvlgv7N03MO_84$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#JN6VNFPBBsW5srkjvVZvgN6KvDrnmJDUeSxO9kIcGKU$*"
- },
- {
-   "Location": "CLUSTER_SG",
-   "Region": "RGN_SEAA",
-   "Cluster": "CLUSTER_SG",
-   "Hotel_country_desc": "Singapore",
-   "HOTEL_CITY_DESC": "",
-   "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#kEK8KyGrz3z-oTujS0gLS9vtGmPhAFP4e9YW3SvNuj0$*",
-   "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#wlEHZ-WBr4FJlcMwQRaGVu7v7N_RtaW9rvEfRyrpSjw$*"
- }
-]
+          {
+            "Location": "RGN_CN",
+            "Region": "RGN_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#y3LoM083Dc7VBKqxKoHFBToABTSl2xiOKF0tfQKVIFE$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#fIZX2Phe7OXK4UvFngY9T4In0-VVWplA1QW5L0QeSJ8$*"
+          },
+          {
+            "Location": "CNSZV002",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Suzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "KHPU",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shanghai",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#LpJX0NvI8SgiNPtvN2nDZgcZ9k2AmcyjKu2OXWet8pI$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#uGJjBiOVsDJSSjynGf81YQjLVLFuC9Hv7XSdVCfdiAU$*"
+          },
+          {
+            "Location": "RGN_E_CN",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#V1yoaFmFwqc-3vhAGrb6wO2YrRkGw89_2dC0bAOxEQs$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Sf8EBNRaMAX--DBCA4ajBCU4--YscTd5K8vTvYGQTfA$*"
+          },
+          {
+            "Location": "SHHZ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Hangzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLCZ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Changzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLH",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Hangzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLHF",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Hefei",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLJN",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shanghai",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#u-PaCTzHWN0wI-amXj34hIWaV6n6BUFkXdROjbYxbZg$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ADi5lfutqVaAX-sA9HdFYsjkkp2WhXxKdbcZHnre8Zg$*"
+          },
+          {
+            "Location": "SLNB",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Ningbo",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLNJ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Nanjing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLPU",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shanghai",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#vHK6zVeVN7g4bLR8Y5szfdXPYApb0J4E7DsAXWhHAgg$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#wRTMUmtZneThkteq0VRc_GPE05YAkoZ6iJRMIk5pafY$*"
+          },
+          {
+            "Location": "SLSZ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Suzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#8VKcuAfVulD2D1mfna0d7HnG1Sh6l1K9RmgMg--XFjk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#YcGjEHTWLoGSUsl_Ei5NfDbO1_gV9hZTkHXJ-8Lkilc$*"
+          },
+          {
+            "Location": "SLWZ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Wenzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLYW",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Yiwu",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLYZ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Yangzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "THCZ",
+            "Region": "RGN_E_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Changzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "CLUSTER_HK",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_HK",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#gZQhhYoleAuq23kgke3HMwOp1iB2hjlSWTare0As8ck$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#zR5dOUdRkxg2mvBMJRUe_4cwfdgMmc15B9abe6o6J8Q$*"
+          },
+          {
+            "Location": "CLUSTER_TW",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_TW",
+            "Hotel_country_desc": "Taiwan",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#i9WPvpvjAa-eyJn1jBZSwUHnNLLuIKSEAbcRbHxP1MY$*"
+          },
+          {
+            "Location": "HJHK",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_HK",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "Hong Kong SAR",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#xjOXejVi6Df7cN3UhAThTrzkRuhsBAbM2R1vXkDl2zs$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#2XVByY1OwbNSSx5aEYeSCooAiglX7IY2f79wsZRoMxs$*"
+          },
+          {
+            "Location": "ISL",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_HK",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "Hong Kong SAR",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#PZ_r9oVJ5XGF2_rzOYDLbq4Bz59ZsN1FtqoRQd75BS4$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#fCJxPFEAbH4Ui10R7RIP3ou--kzVwvgXW23Etjslrjg$*"
+          },
+          {
+            "Location": "KHHK",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_HK",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "Hong Kong SAR",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#5F4Y8OnTxXprux7N40CB5yAJO7PbWQ_UEvl8nG-2Gi0$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#E_YtuuhAcSgNjR4nhgNCP0Vs1hgV3VVO1f2GU3wgDXg$*"
+          },
+          {
+            "Location": "KSL",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_HK",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "Hong Kong SAR",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#tceg6PTqfCjQwWyNQ38NwL_oC216v9kNQPLqRW_Bt3c$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#TkjmVlGbthXFR3RQa9rldmz3wRkbpZ-srtXnUSULGqY$*"
+          },
+          {
+            "Location": "RGN_HKTW",
+            "Region": "RGN_HKTW",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLTN",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_TW",
+            "Hotel_country_desc": "Taiwan",
+            "HOTEL_CITY_DESC": "Tainan",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#ZEV3ksNPCr6Ne10nB3orfv6e7cbYTb3Z2rHNP1GWuEg$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "TPE",
+            "Region": "RGN_HKTW",
+            "Cluster": "CLUSTER_TW",
+            "Hotel_country_desc": "Taiwan",
+            "HOTEL_CITY_DESC": "Taipei",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#qMdKZ_85xYM3R_Cjir0iwldqphmj1hUjYYN3YGMI09c$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ZNRXoC9nBh9pGEYvka6IgrY2NKZQ-UnA9OExx4XsfQI$*"
+          },
+          {
+            "Location": "SLTY",
+            "Region": "RGN_JPKR",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Japan",
+            "HOTEL_CITY_DESC": "Tokyo",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#9ahF3RpxshRUAsV6A9MdCBKDKU0o9AeONXL4k2WA9nw$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#nJ20mLUuH-iDJLEPvHiGd3cT8dQs8cdgtQs_eqXICqo$*"
+          },
+          {
+            "Location": "CLUSTER_EUNA",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_EUNA",
+            "Hotel_country_desc": "Middle East",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "HJMD",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "Maldives",
+            "HOTEL_CITY_DESC": "Male",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "RGN_MEIA",
+            "Region": "RGN_MEIA",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Middle East",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#11vNOZBM_SFeFm_vZMMRWlwuk1a6l6TsMZ7J2rusH3A$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#LW5K_ZJMDrArENnvfBSnrQXi1EFsUiRLw-WkaxBAhU8$*"
+          },
+          {
+            "Location": "SLAD",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "United Arab Emirates",
+            "HOTEL_CITY_DESC": "Abu Dhabi",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#TfqI4hdzh9zlRTdKFbdx05-NgWCzkSZgjfafdC4lfOQ$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Mt2gxdpW3ogomja_1zxa02FPPW2sSRgTb5k6wa6GhOE$*"
+          },
+          {
+            "Location": "SLBL",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "India",
+            "HOTEL_CITY_DESC": "Bengaluru",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLDB",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "United Arab Emirates",
+            "HOTEL_CITY_DESC": "Dubai",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#UcMr5-HQR0Iu0qsisyYpW9_RYFFJPG-nZAvo5bTezjo$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#v8rFGOlXCU3l4W5wmozJIVc99I_c2nODOuo1ZPdmduk$*"
+          },
+          {
+            "Location": "SLIB",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "Turkey",
+            "HOTEL_CITY_DESC": "Istanbul",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLLN",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_EUNA",
+            "Hotel_country_desc": "United Kingdom",
+            "HOTEL_CITY_DESC": "London",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#LT2A4PPECIQIXLDGe6jYU66d38fQLenOiNI5e6LArjI$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Obp_H3JJBZfTnyJN6mQ2KldtQIVRsxlGwzv-y0HQRwI$*"
+          },
+          {
+            "Location": "SLMH",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "Oman",
+            "HOTEL_CITY_DESC": "Muscat",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#89L9LEs2UMMXw5WOHqSMt7E2crFJyK9NIRaly8snO8A$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#vy9nkyocjcht7WRCdzcH4at15fV_z2aUqNzcfPiPIp8$*"
+          },
+          {
+            "Location": "SLMU",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "Oman",
+            "HOTEL_CITY_DESC": "Muscat",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#X5NObi0mDZTsLiwZFPGC6POYrKO14KTSjH1_tCz9cKo$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#PGWfzhUBcKObWVTJTOWgaDP2uM1PUhBOSJNu1RDVQA8$*"
+          },
+          {
+            "Location": "SLND",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "India",
+            "HOTEL_CITY_DESC": "New Delhi",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLPR",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_EUNA",
+            "Hotel_country_desc": "France",
+            "HOTEL_CITY_DESC": "Paris",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#fbcPDzATmtgwHU-_QmSWUy0TtxJUBuUZpRsLg2SUa8I$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Dm0wNVdmGaKpC2v0nhhz-KiYvvkJBqFuuERixt_u4I0$*"
+          },
+          {
+            "Location": "SLTO",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_EUNA",
+            "Hotel_country_desc": "Canada",
+            "HOTEL_CITY_DESC": "Toronto",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#2Tzzu701XOu0CMYAm1fc2wq5E3cK9OpkIprdQ0ZSmuQ$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#c6WbYBw0n7mDpl1-sWq_47fcI7Fyujw3D4owR5JCV28$*"
+          },
+          {
+            "Location": "SLTR",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "Mauritius",
+            "HOTEL_CITY_DESC": "Le Touessrok",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLV",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_EUNA",
+            "Hotel_country_desc": "Canada",
+            "HOTEL_CITY_DESC": "Vancouver",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#PuJ-N6TO-e1BkUWONSDvmns_JB2hNEqhT7fySzHWcIA$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#MauQ-u0YElXTijuDe4nL0XsD0jzdHqQSYmzEucc_7mg$*"
+          },
+          {
+            "Location": "THAD",
+            "Region": "RGN_MEIA",
+            "Cluster": "CLUSTER_MEIIO",
+            "Hotel_country_desc": "United Arab Emirates",
+            "HOTEL_CITY_DESC": "Abu Dhabi",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "CWH",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Beijing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#PoAJUQ5eJ3cQ0W9sSTOm_am3d4xG5QCIYmmH2duQOgg$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#4wVldhJWdeuOfk-U7HkBFlvxzD-w2aSkDfzT_y0MQaM$*"
+          },
+          {
+            "Location": "CWSW",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Beijing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#R53eCqwqxCZDHR5haZ4DCjzDVZzmGvrGYw66mhe3C10$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#E1DlvB8y9OAbyr5rAqDxBVu8PBHI1WjqyVizVk9vvUE$*"
+          },
+          {
+            "Location": "HBKC",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Beijing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#-c9qz6M28WObBTzToNRU30OYXDPGr2ur0hQf4vLKAGs$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#EB4AFRCu7PT2wLhqTkexYvHopcPD105lc1fpYMBIogM$*"
+          },
+          {
+            "Location": "HJB",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Beijing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#roFzpA__rv7NN-BEwSK8mGrzvmc9HouI2SI7kKI21Nk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#XVmsYVcNvJePfluNi9WAjXpKeCywzEXyfUsayqUXNn4$*"
+          },
+          {
+            "Location": "HJSY",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shenyang",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#98Oqug5JzTFgsFbdURhXtJYZAz5aGKU78t5NV2babTk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#lETLQvagiCYIu27pe-uI7jDVp18ewHbiA1BxaW17Wo8$*"
+          },
+          {
+            "Location": "RGN_N_CN",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#81UXWGlvU0rbRR2IWozffLVUB_5P5JdJJwVxRXpZFgI$*"
+          },
+          {
+            "Location": "SHAR",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Harbin",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#n0Gz9bgKKwYJbNG8k6TEb4DxLjMNgGkIAWisDntKQYA$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#zoaPWkUEm2muVf50w6kvoO-dCTv_y2KqWn9JbjtyrMQ$*"
+          },
+          {
+            "Location": "SHAS",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Harbin",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#o1J7oFqA4d7fMGReQQ9X-F0f9G99ts3E4NioO8bb5CQ$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#OW1y10b5mJMnhB1YkvcBahz876YJ6yZl47w8_Uk0fbo$*"
+          },
+          {
+            "Location": "SLB",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Beijing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#rKvqVhZWlC1qP_llg_l2WZWNEhYkWGAyJ2UuXlWNAEc$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#C0vCVzwcVmb3tU-Z2rpv-7hfIJcQ8J6eUfpDO1sGDmo$*"
+          },
+          {
+            "Location": "SLBT",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Baotou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#yA4tBbaJGjH4BU73m4uLSMpnnqdaDF3hcD5mLVoi7OM$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#u5d6rZkAA1qSXfbaabaOp7G12CI7YlP-7RSRv92Dqm8$*"
+          },
+          {
+            "Location": "SLCC",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Changchun",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#idDn43OMtZr69nSecztVmhfxpKnXz58UT2D3JJB-vTk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#pUVrgQspAfwdXZ3puKLMjDXJCtnEQxlHDrT6lbRlJk0$*"
+          },
+          {
+            "Location": "SLDA",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Dalian",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#5-K89fNhujMfkgm5Wqy8sN69nstCbO_FiHXzCc1LWtw$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Q8mHioNiY74p6RtKKoqV9Ek55mOxDHkynsUjuUeG3DY$*"
+          },
+          {
+            "Location": "SLHH",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Huhhot",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#EKP1TLAO4IhCgwo6lmbi-30f95jKtKfelJ55mHPXjjo$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#8eAsgkNuhJP8OoUPtNB5yiiWR8Fy3sAlIomg639VmLA$*"
+          },
+          {
+            "Location": "SLJI",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Jinan",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#h4J-dJqYfrRl2T2cozMmtoGW5vEx7FQPGM-ubHgktzc$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Salcr_vXYnQieZDORlkgb1e0RikbK17dhLIsV4fpSbU$*"
+          },
+          {
+            "Location": "SLMZ",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Manzhouli",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#AkuuH8tosfdTPAEGkvs2CqWHW8AaG52K6LrKhlTrDMc$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#cNKu8rCyRmom2-ZjNamSDArw9aMo_q9FTv55nE6mRsc$*"
+          },
+          {
+            "Location": "SLQ",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Qingdao",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#gUqEOZVjb82vi3S-lPxpZbDLBxoXILSutY180AtB6jE$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#gEUsqtSbXkM0NwdYc0n6qrC4Er_CKzBHAglwRplxB7w$*"
+          },
+          {
+            "Location": "SLQF",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Qufu",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#1tn9TVRaB8WA3ct_DKx_vKauEV52DsCbz4wAKIOFo5E$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#GBHnq2Wodwn4DZ33JcwkBRVk8sp7WRk3ehn82IzkPtw$*"
+          },
+          {
+            "Location": "SLQH",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Qinhuangdao",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#hkJ6B6gM3dAYMG0MAKidwpgdAL2C4r9_emPmmaZ_rRs$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#DQXA5k8EoRAyfWtPL5UpKP6YjniyHXOeExJHOUlkmM0$*"
+          },
+          {
+            "Location": "SLSH",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shenyang",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Au03Sx3w2nGoicYFmzejqh2LcXjEjcuuzoDew17J6zQ$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#tMPmKGhMgNp9ciJJCUKjpiTJ0mJ-ShvJesjKwbU4BI8$*"
+          },
+          {
+            "Location": "SLTJ",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Tianjin",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#YbaTqWVUQF_AaBaptWcuqf0rnn0I9FxWewj9PzMt4t4$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#dShTmw7muoXoH1Jd39tAv2fhMwPKieaCESLFFtFBE30$*"
+          },
+          {
+            "Location": "SLTS",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Tangshan",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#i9AGAxsqS_Aw_Yflx8YIDE0WXz3j7HYqHJeT-BUGu1g$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#enXKrXY9ZpCpde0SetDDghSYAX7gfwALxDxHXqjawbg$*"
+          },
+          {
+            "Location": "SLUB",
+            "Region": "RGN_N_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Mongolia",
+            "HOTEL_CITY_DESC": "Ulaanbaatar",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#ma0hyL25uo2zFivv_-k05zfU7al_YrIgkUHuoKmbomE$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Sianpy2K0aJh5Ylv2s2-ErmvVX_TFn5-nFDbJRjazMs$*"
+          },
+          {
+            "Location": "RGN_S_CN",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SBHI",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Beihai",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#OnaoxF86-XClUE9O7JLIJB6u9sjjOM4Eo86cjRFrWqk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#9UzNdvCZ55X9yyCuE1O52tFoqyTNjhEP7Wk5tZK2N8s$*"
+          },
+          {
+            "Location": "SLCD",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Chengdu",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#q5gUTVLtjQ6ekIFqhMmlXWnANCVXJRGiU2CXtD5Mhf4$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#d68dhozG_hxrUqcLlEMc55excDtSrTTDi_-qJzlbIAc$*"
+          },
+          {
+            "Location": "SLDQ",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Diqing",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLFT",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shenzhen",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Gcllml-nxrQ7XV0T85jm9g7iv5-OZyFnNB6EXCYB7RY$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#XfXa7JoQcaXCwbfR0X02vPJQTgHKPVBLZPZSquS5MwE$*"
+          },
+          {
+            "Location": "SLFZ",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Fuzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#bIC3fdTbSV1NNxnNpDPv3jMJat0efpmLltHsGXa7ohU$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#EMdcQ9nqDNhn_8WjdwOO1VcSWKliMGCQLJ6P5FQIV08$*"
+          },
+          {
+            "Location": "SLGL",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Guilin",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#tk09Axcr5qCgD9kkbXEpoJLVurYqU91rgOOYg1ifnK0$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#sfvmGO600YWeQDsW-VPwoaCbUI7zDCjnlKQoIR20IJA$*"
+          },
+          {
+            "Location": "SLHI",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Haikou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#B454vw3BOlDDyaN4Lb2WZmo7Nf2bVVhslfQ-p1vJk6A$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#_mVn7AopL4yrv-Y_bNqTjIssD1vO3bhGe_beWTxdaFU$*"
+          },
+          {
+            "Location": "SLHN",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Sanya",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#X-gm1Bi1kXhOf1uNNa7hUZyU6JN5yGxH9QPFV8PnaXM$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#oCp7K_CBOFhOFejR2T7wPFfJw2o6YACmJPv7biDJGXw$*"
+          },
+          {
+            "Location": "SLLS",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Lhasa",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLNC",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Nanchang",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLPG",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Guangzhou",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#AbN7xDgEQtxuPCE0gO96kgoZvWWRMDPJQ3QTr5YQFko$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#XBVjZR7-TFh5YRXbdT-qb6IVCFPbGbXPbqHdRQluono$*"
+          },
+          {
+            "Location": "SLWU",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Wuhan",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#CzsG4XSOqBEBqJRfDxBwMGzB8peTSHBtbKLggcGhNOo$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#nJbs8I1WwAo_DAAwlXES-tLmh1A4NyDwEygv0Rc3DaI$*"
+          },
+          {
+            "Location": "SLXM",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Xiamen",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#wv77pVGJVxNoJxPEQAYQ5YCztEFunOhSOkovBmrR8Rk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#rFBieXUEwsWYRE5mr6ykdzXCCfilBwEyzIBIfEHjATg$*"
+          },
+          {
+            "Location": "SLXN",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Xian",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLZ",
+            "Region": "RGN_S_CN",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "China",
+            "HOTEL_CITY_DESC": "Shenzhen",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#t2v1C9jGSDzwNPPK-bRLL7RlMLBaE331oVk8UvoCws8$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#tRSzE7OA-9gFQP4tOMD1krJc82HWWpeiI_rG8_Nj7xY$*"
+          },
+          {
+            "Location": "CLUSTER_ID",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_ID",
+            "Hotel_country_desc": "Indonesia",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#1_xmumnsZVPOEChUjW8LzFE79Rd2Ckvlgv7N03MO_84$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#JN6VNFPBBsW5srkjvVZvgN6KvDrnmJDUeSxO9kIcGKU$*"
+          },
+          {
+            "Location": "CLUSTER_MITS",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#UmQl9dF6NWgjTzlWxet1ustm9-auU3PmD2OjIvto2Ww$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#5ztf0DDqx5Tf8xm49RGEz0qtz34aUbnURNZO3CNY9JE$*"
+          },
+          {
+            "Location": "CLUSTER_MY",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Lj1E2oherlhv0vlqOEDVDXIllHGQlf1p0rdc-KcEL9Y$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#JN6VNFPBBsW5srkjvVZvgN6KvDrnmJDUeSxO9kIcGKU$*"
+          },
+          {
+            "Location": "CLUSTER_PH",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#2bvSJZJDIt9ASkeg69D1FQc7Ri-65kdvsiDooMWTyAE$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#J6CsLEPZqa2wXWED_ch8Mv5WqcgCkY907_5RsNO3Aoc$*"
+          },
+          {
+            "Location": "CLUSTER_SG",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_SG",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#kEK8KyGrz3z-oTujS0gLS9vtGmPhAFP4e9YW3SvNuj0$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#wlEHZ-WBr4FJlcMwQRaGVu7v7N_RtaW9rvEfRyrpSjw$*"
+          },
+          {
+            "Location": "ESL",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "Edsa",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#DByK6p5ZYplj5U43CXHh62J0da2kJbetVkjmNgOBGgA$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#z_KtRu8unImLvpJbiB4Jn7pDujhxGCh2vRh9FTvp6qQ$*"
+          },
+          {
+            "Location": "FIJ",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Fiji",
+            "HOTEL_CITY_DESC": "Fiji",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "GSH",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "Penang",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#D4qzcAUu9C6ynHfmKu2yrsFRwxrVSnByZyx8VjgcMfY$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#KGOceMrVQV4oWezRpByc79Aqk4_4ETiqQgqFWzEOinI$*"
+          },
+          {
+            "Location": "HJM",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "Manila",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#B_gr-VM-vuirWQoeN5QYriYSn0QTzIKKXsj37AkC6aU$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#CXD2ArfHFm_TmjFtuwt9xhL_MALWnXQySSdpe2PHkj0$*"
+          },
+          {
+            "Location": "HJOG",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_SG",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "Singapore",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#7W76HA-cvKqhbtXEyXZgTsHHAwievJdMNgR8742t_ro$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#7uXRtpmRyI0zsOJnycTELDKTYHoqDxzJee34s-Zt-aI$*"
+          },
+          {
+            "Location": "HJP",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "Penang",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#z7hoIpT_TOdrEbL0CPzzJdlWlxrE4TdsqQFLNgQrCSs$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ryYJ-PyXisPXRghsU6UVN3QC7A6_GXzTlFYaRZhiiX0$*"
+          },
+          {
+            "Location": "HJPH",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "Nusajaya",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#OZH5ldopcLgrmNMXjvTgt8MSrETwzonBQq6Fnb9R-XM$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#3zdCXn-go5h49Q9g8Jhz7YtSD869rgBsEVtBJjZ394s$*"
+          },
+          {
+            "Location": "HJTS",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_SG",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "Singapore",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#Em167eP7Cie7XGzQSVatijBERuWXcuz0tcVUyshW5Xg$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#oXNLe_WMBpVFjKm76s4434h39mHgqFe3Kv9HVwdmSgU$*"
+          },
+          {
+            "Location": "MAC",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "Mactan",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#kwLWBANiSYBHaJ6rD_6mI7IBVRHiSsYeXXDhzvg5mr0$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#4nmYSPQuao9WMKbvNWaC8bYW3IEx_99iozzsG-WX8Ac$*"
+          },
+          {
+            "Location": "RGN_SEAA",
+            "Region": "RGN_SEAA",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#JZ6mNwiguZJAilF9JoctFCkmrW206AUxTttstuXf3Ew$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#MpeZR4voTK_LJB-LFm16-TqfO-WxC3wd4RRau3lQv-Q$*"
+          },
+          {
+            "Location": "RRR",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "KK",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#a6VnfBVKS4dXyQQexbBnU8clElj8unkuWbfNuQhhIxc$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#lbrzXprXgztS1dJVyszO5mY6aIi5sMEu1wG9k-w_SU0$*"
+          },
+          {
+            "Location": "RSR",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "Penang",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#D4qzcAUu9C6ynHfmKu2yrsFRwxrVSnByZyx8VjgcMfY$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#nDIU-fAtY5ywGU7_YRL_2dMfoj_MGkfZHx1eD2CtTM4$*"
+          },
+          {
+            "Location": "SEN",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_SG",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "Singapore",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#J9LmdDq_H9VZXpumJTRToRbOKS3QKOBq-aW_RUCAcpY$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#j9aKIbUF92ikkkDe7puUbLsdrIo38CU8FJtqyvXlo58$*"
+          },
+          {
+            "Location": "SHANG_SOCIAL",
+            "Region": "RGN_SEAA",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#mMExC-wLr2u4yrNaVMkwD3BeTewnhEANmcBJRMUGGMk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLBK",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Thailand",
+            "HOTEL_CITY_DESC": "Bangkok",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#JWtj3KzZeypMzrg8TLaj49lEmDdU6segGPIpGUWa1Dk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#aF-tzR-mVNN1gARJPJRP8vvxta2POa4zrrWVTl5t9U8$*"
+          },
+          {
+            "Location": "SLBO",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "Boracay",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#JQHaB2DKkcusa1S538BwnOeMqlPs7JAv-sMApTvUfmI$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#JFOYr6MdjKZh346QlUg2L_xH8cMZtfYTMpT3Fp5kARQ$*"
+          },
+          {
+            "Location": "SLCB",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Sri Lanka",
+            "HOTEL_CITY_DESC": "Colombo",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#ZXojI1KKF_xbcRyLy5DsrU4Ws52EnmAxDrq4V55kWGY$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#224JUQf-1JUiMaZXvnwWHttSSzz-TREsOD9L9CH_k58$*"
+          },
+          {
+            "Location": "SLCM",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Thailand",
+            "HOTEL_CITY_DESC": "Chiang Mai",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#omEiWSxfYHSPC7cl9T_2IbJ_yFy9lV2CYfGlf8yabjM$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#3dnLUL1KlO1mlyscaWI6_h8Ci6fXNpjAqRXwTlIcHuY$*"
+          },
+          {
+            "Location": "SLFM",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "Manila",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#6R8PrDrocwK7-osHi7uAu8IwiLNklQwC-EO6BfvzMF8$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#wHe9e4bT295wKYfmaJYusS3eQOtF5EY9qFERq3_OYh0$*"
+          },
+          {
+            "Location": "SLHT",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Sri Lanka",
+            "HOTEL_CITY_DESC": "Hambantota",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#gZNuYEI-pYOxNAYKHdO-rdS-F54fP_Vj81qFWXYQNSA$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#ukpn4y8w9IC2N5azKa0dFdfR13svX_gmWAclbcVzolM$*"
+          },
+          {
+            "Location": "SLJ",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_ID",
+            "Hotel_country_desc": "Indonesia",
+            "HOTEL_CITY_DESC": "Jakarta",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#jcjvS9oHJ4RyzOTw85G5qhd3rxkP-gSf8A40SzG0ubk$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#myIbW7OZuGii49174dpL2tNt0vlt7DX3WJfAsXjK6OE$*"
+          },
+          {
+            "Location": "SLKL",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "Kuala Lumpur",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#UO9t3wcf-WtDrKvyAbuMRKUDSaDWGgRFIOCo7JzStAs$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Vaznnw5fMljP6EkwYzFlWlRRXL2adYpFW4Ary0E4Lks$*"
+          },
+          {
+            "Location": "SLM",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_PH",
+            "Hotel_country_desc": "Philippines",
+            "HOTEL_CITY_DESC": "Makati",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#rTW4oiC_EgRARSc-1fia5cWrbh1KkdllTJJc7bZAcQY$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#p0rYKVaYr-KwJ7TCtv3cbjyabgnap5-vt-cityZVnhM$*"
+          },
+          {
+            "Location": "SLMC",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Australia",
+            "HOTEL_CITY_DESC": "Cairns",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm"
+          },
+          {
+            "Location": "SLS",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_SG",
+            "Hotel_country_desc": "Singapore",
+            "HOTEL_CITY_DESC": "Singapore",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#HcGKyTZWfRyTLgwKeH1F1E3aXcV8nEYo6nrpUeBgcK8$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#b-MlRlcsUHRY556ln5Kf4pp6yQbZHeCd0ssTcAh63AY$*"
+          },
+          {
+            "Location": "SLSN",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Australia",
+            "HOTEL_CITY_DESC": "Sydney",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#GTM1SBpXWTvEregAaOxW4Ec6k_QosIODVeMw5iPyrEE$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#vWgYR4JDWkfHXYEs7_RqN3JfiOuUCrmnkumBFo4Dk-A$*"
+          },
+          {
+            "Location": "SSYN",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Myanmar",
+            "HOTEL_CITY_DESC": "Yangon",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#-xV6Ug9IFQHUpZW9jpIRLZV74ePCrbqM_WToflTFo5w$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#Edm0-O0fri0zmVPJXZ41MO1EIU8UoIKm-HqEyZSj37Q$*"
+          },
+          {
+            "Location": "SUR",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MITS",
+            "Hotel_country_desc": "Indonesia",
+            "HOTEL_CITY_DESC": "Surabaya",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#egN-xaOOFQqp9O5rlGHmNSFL36XoiYvyUh3vzPVjgak$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#oXNLe_WMBpVFjKm76s4434h39mHgqFe3Kv9HVwdmSgU$*"
+          },
+          {
+            "Location": "TAH",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "KK",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#NK-wUrVv_aQB7RjuCS17wREEOZb8u79tjPLP1TRwLC8$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#dfZBZ-00D6nV_myq4Xv3pfYw5ZibXPjcMvhw6r24cw4$*"
+          },
+          {
+            "Location": "THKL",
+            "Region": "RGN_SEAA",
+            "Cluster": "CLUSTER_MY",
+            "Hotel_country_desc": "Malaysia",
+            "HOTEL_CITY_DESC": "Kuala Lumpur",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#8vYyCxBYtbFwWPy1h5aPR-QENqg24ckNdyFSSyU3q4I$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#BnK6FK7zBWgi4KqK_SwFtcG7t9xVQgLRMJw1bhWlIU4$*"
+          },
+		  {
+            "Location": "JEN",
+            "Region": "OTHERS",
+            "Cluster": "OTHERS",
+            "Hotel_country_desc": "Hong Kong SAR",
+            "HOTEL_CITY_DESC": "",
+            "Hotel_Information_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelInformationForm#9GVN2Bs1Van8vOMdGSyc7HMLDvynjLnyYwULYWt0bDw$*",
+            "User_Access_Form": "https://www.cognitoforms.com/Shangrila1/HMEPHotelUserSetUpForm#GyZggAm9sHH309uIqzyPwtvN3sC4Iiw8PUOdmMFQtqk$*"
+          }
+        ]
+    
